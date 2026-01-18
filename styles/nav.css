@@ -1,0 +1,16 @@
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style:none;
+    margin-right: 10px;
+}
+nav li a{
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: rgb(214, 217, 226);
+}
+h2 a{
+   text-decoration: none;
+}
