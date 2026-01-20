@@ -1,0 +1,10 @@
+.one img{
+    padding: 10px;
+    width: 200px;
+}
+.one{
+        border: 2px solid rgba(0, 0, 0, 0.219);
+        border-radius: 5px;
+        padding: 20px;
+        box-shadow: 5px 5px 10px;
+}
